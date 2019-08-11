@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.vodanh.myapplication",
+    "sha256_cert_fingerprints":
+    ["FD:B4:E4:71:CF:55:D7:C1:B6:C2:36:F1:91:38:D0:41:34:38:FD:C1:02:30:63:A5:9E:08:37:F1:A9:8F:4C:35"]
+  }
+}]
